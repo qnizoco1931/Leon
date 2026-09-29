@@ -1,1 +1,2 @@
-# Leon
+cd ~/dylan-heartbeat
+Leon
